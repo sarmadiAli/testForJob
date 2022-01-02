@@ -1,0 +1,5 @@
+export const GET_USERS_DATA = 'GET_USERS_DATA'
+export const GET_USER_DATA = 'GET_USER_DATA'
+
+export const GET_PRODUCTS_DATA = 'GET_PRODUCTS_DATA'
+export const GET_PRODUCT_DATA = 'GET_PRODUCT_DATA'
